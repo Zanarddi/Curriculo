@@ -26,6 +26,24 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 
 <br>
 
+## Experiência Profissional
+### Schott Flat Glass do Brasil, Indaiatuba (fev. 2022 – Atual)
+#### Estagiário de TI.
+* Suporte de usuários internos da empresa
+* Participação em projetos de implantação de novas ferramentas
+* Atualização de infraestrutura e 
+redes.
+
+### Exide Gaming, Indaiatuba (out. 2019 – fev. 2021)
+#### Estagiário.
+* Customização de controladores para a indústria de esportes eletrônicos
+* Controle de estoque e modificação em placas eletrônicas pelo processo de solda.
+
+### Exército Brasileiro
+#### Serviço militar obrigatório, no ano de 2021
+
+<br>
+
 ## Conhecimentos
 
 ### Front-End
@@ -61,7 +79,6 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 * OBMEP - Medalha de Bronze - 2014
 * OBMEP - Menção Honrosa - 2016
 * OBMEP - Medalha de Prata - 2019
-* Cisco Networking Academy - Carta de Recomendação IT Essentials - 2021
 
 <br>
 
