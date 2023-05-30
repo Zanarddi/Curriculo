@@ -15,14 +15,13 @@ ampliar meus conhecimentos e experiências em desenvolvimento de aplicações.
 <br>
 
 ## Formação
-FIEC Indaiatuba - Técnico em Mecatrônica - Concluído em 2019
- 
-[Clique aqui para ver detalhes do curso.](https://www.fiec.com.br/site/cur/1/45/ver.do)
-
-
 FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sistemas - 5º Semestre - Finalização em 2023
  
 [Clique aqui para ver detalhes do curso.](http://www.fatecid.com.br/site/index.php/analise-de-sistemas/)
+
+FIEC Indaiatuba - Técnico em Mecatrônica - Concluído em 2019
+ 
+[Clique aqui para ver detalhes do curso.](https://www.fiec.com.br/site/cur/1/45/ver.do)
 
 <br>
 
